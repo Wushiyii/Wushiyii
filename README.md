@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wushiyii</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
-- 🔭 I’m currently working on **WebFlux-Gateway**
+- 🔭 I’m currently working on **GC-Detector**
 
 - 🌱 I’m currently learning **Netty**
 
