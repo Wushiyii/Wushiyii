@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Netty**
 
-- 📝 I regularly write articles on [https://blog.wushiyii.xyz/](https://blog.wushiyii.xyz/)
+- 📝 I regularly write articles on [https://blog.wushiyii.xyz](https://blog.wushiyii.xyz)
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wushiyii&show_icons=true&locale=en&theme=radical" alt="wushiyii" /></p>
 
